@@ -1,0 +1,7 @@
+node_modules/
+dist/
+outputs/
+work/
+*.tsbuildinfo
+.env
+.env.local

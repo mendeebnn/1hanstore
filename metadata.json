@@ -1,0 +1,8 @@
+{
+  "name": "Han Store",
+  "description": "Authentic performance basketball gear and court essentials in Mongolia, featuring the Harden Vol. 9 collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

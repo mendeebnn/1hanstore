@@ -1,0 +1,8 @@
+/* Supplied Han Store asset treatment: responsive, cropped with no distortion. */
+.brand{gap:0}.brand-logo{height:54px;width:auto;object-fit:contain;object-position:center;display:block;mix-blend-mode:screen}
+.hero-photo{display:block}.hero-photo img{width:100%;height:100%;object-fit:cover;object-position:center 47%;display:block}.hero-shade{z-index:1}.hero-content,.hero-scroll{z-index:2}
+.visual{background:#101010;display:block}.visual picture,.visual img{display:block;width:100%;height:100%}.visual img{object-fit:cover;object-position:center;transition:transform .5s ease}.product-card:hover .visual img{transform:scale(1.035)}
+.visual-grid,.model,.shoe,.visual-copy,.item-shape{display:none!important}.visual.large img{object-fit:cover}
+.banner{padding:8vw 7vw;background:#050505}.banner-image,.banner-image img{position:absolute;inset:0;width:100%;height:100%;display:block}.banner-image img{object-fit:cover;object-position:center 35%}.banner-shade{position:absolute;inset:0;background:linear-gradient(90deg,#050505e8 0%,#05050599 42%,#05050522 100%)}.banner-content{position:relative;z-index:1}.banner .eyebrow{color:#ff5c5c}.banner .muted{color:#ddd}.banner-mark{display:none}
+.gallery>.visual img{object-fit:cover}.thumbs .visual img{object-fit:cover}.cart-line .visual img,.order-line .visual img{object-fit:cover}
+@media(max-width:800px){.brand-logo{height:48px;width:auto}.hero-photo img{object-position:52% center}.banner{padding:11vw 7vw}.banner-image img{object-position:center}.visual img{object-position:center}.card-meta b{font-size:11px}}
