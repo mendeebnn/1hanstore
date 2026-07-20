@@ -1,5 +1,5 @@
 /* Supplied Han Store asset treatment: responsive, cropped with no distortion. */
-.brand{gap:0}.brand-logo{height:54px;width:auto;object-fit:contain;object-position:center;display:block;mix-blend-mode:screen}
+.brand{gap:0}.brand-logo{height:54px;width:auto;object-fit:contain;object-position:center;display:block}
 .hero-photo{display:block}.hero-photo img{width:100%;height:100%;object-fit:cover;object-position:center 47%;display:block}.hero-shade{z-index:1}.hero-content,.hero-scroll{z-index:2}
 .visual{background:#101010;display:block}.visual picture,.visual img{display:block;width:100%;height:100%}.visual img{object-fit:cover;object-position:center;transition:transform .5s ease}.product-card:hover .visual img{transform:scale(1.035)}
 .visual-grid,.model,.shoe,.visual-copy,.item-shape{display:none!important}.visual.large img{object-fit:cover}
